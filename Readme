@@ -1,0 +1,20 @@
+This is one way to change language to Chinese or Anyother language for League of Legends on PC platform since it does not support certain languages in NA or other servers as of patch 13.19.
+1. Basically, you need to change the "F" (this is the disk I install LOL) to the one you install LOL, and change the "zh_CN" to any language you want. 
+The language and region code can be found below:
+Japanese: ja_JP
+Korean: ko_KR
+Chinese: zh_CN
+Taiwanese: zh_TW
+Spanish (Spain): es_ES
+Spanish (Latin America): es_MX
+English: en_GB, en_AU, en_US
+French: fr_FR
+German: de_DE
+Italian: it_IT
+Polish: pl_PL
+Romanian: ro_RO
+Greek: el_GR
+Portuguese: pt_BR
+Hungarian: hu_HU
+Russian: ru_RU
+Turkish: tr_TR
